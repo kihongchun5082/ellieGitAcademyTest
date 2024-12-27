@@ -1,4 +1,5 @@
 addyyyyyyy
 edited in local
 add for fetch and pull
+local에서수정함
 change by remote
